@@ -104,7 +104,6 @@ We can start planning a future project together!
 *   [The Honorable Erik Falor And His Phenomenal Web Development Course Lecture Notes](https://gitlab.cs.usu.edu/erik.falor/fa21-cs2610-lecturenotes)
     *   [Erik Falor's CS2610 Lecture Notes For Monday, September 27th's](https://gitlab.cs.usu.edu/erik.falor/fa21-cs2610-lecturenotes/-/tree/master/Module2/Lec11-Mon_Sep_27)
     *   [CS2610 Introduction To Django](https://gitlab.cs.usu.edu/erik.falor/fa21-cs2610-lecturenotes/-/blob/master/Module2/Django.md)
-    *   
     *   Real quick, I just want to add how grateful I am for Erik teaching me about Django initially, and allowing me to utilize and adapt part of his lecture notes for this presentation. Seriously, take Web Dev with him if you can. You will not regret it.
 *   [Django Project](https://djangoproject.com/)
 *   [Django 3.2 Documentation](https://docs.djangoproject.com/en/3.2)
